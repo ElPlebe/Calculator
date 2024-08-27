@@ -4,11 +4,11 @@ namespace TestProjectCalculator
 {
     public class CalcTest
     {
-        private readonly Calc _calcs;
+        private readonly Calcs _calcs;
         
         public CalcTest()
         {
-            _calcs = new Calc();
+            _calcs = new Calcs();
         }
 
         [Fact]

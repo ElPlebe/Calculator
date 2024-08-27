@@ -33,7 +33,7 @@ namespace Calculator
             return a / b;
         }
 
-        public static int MultiplicationI(int a, int b)
+        public int MultiplicationI(int a, int b)
         {
             return a * b;
         }
