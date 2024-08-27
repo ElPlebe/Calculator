@@ -1,6 +1,6 @@
 ﻿namespace Calculator
 {
-    public class Calc
+    public class program
     {
         public static void Main(string[] args)
         {
